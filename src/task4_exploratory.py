@@ -34,5 +34,4 @@ df = pd.DataFrame({
     'C': np.random.rand(50) * 100
 })
 
-# Perform the EDA
 perform_eda(df)
